@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    width: 200px;
+    flex-direction: column;
+}
+
+.display {
+    background-color: lightgray;
+    height: 50px;
+}
+
+.calc-row {
+    display: flex;
+    gap: 12px;
+}
+
+.calc-button {
+    flex: 1;
+    margin: 0.5rem 0;
+}
