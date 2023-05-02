@@ -14,8 +14,8 @@ body {
     width: 400px;
     flex-direction: column;
     background-color: #282828;
-    padding: 0.5rem;
-    border-radius: 2px;
+    padding: 1rem;
+    border-radius: 5px;
 }
 
 .display {
